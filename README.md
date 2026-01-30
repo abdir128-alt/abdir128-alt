@@ -1,4 +1,3 @@
-  
   -My name is Khaalid Abdirahman
   -I'm a Data Science major
   -Email: abdir128@umn.edu
